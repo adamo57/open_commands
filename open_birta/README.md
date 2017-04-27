@@ -1,6 +1,6 @@
-##Open BIRTA
+## Open BIRTA
 
-###Installation
+### Installation
 
 Make the installation file executable
 ```
@@ -15,7 +15,7 @@ Run the install script
 This should put the open_birta.sh in your /usr/local/bin directory
 and make the open_birta.sh executable
 
-###Running The Script
+### Running The Script
 
 With the script in your /usr/local/bin directory, you can now run
 the script from anywhere in your terminal.
