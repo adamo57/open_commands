@@ -22,7 +22,7 @@ function tab () {
 EOF
 }
 
-tab ~/code/birta 
+tab ~/code/birta
 clear
 tab ~/code/birta "docker-compose up"
 clear
