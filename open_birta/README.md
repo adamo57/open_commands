@@ -1,5 +1,8 @@
 ## Open BIRTA
 
+## Preface
+This script assumes that you have the BIRTA codebase in ~/code/birta
+
 ### Installation
 
 Make the installation file executable
