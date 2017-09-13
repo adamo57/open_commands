@@ -26,4 +26,4 @@ tab ~/code/birta
 clear
 tab ~/code/birta "docker-compose up"
 clear
-tab ~/code/birta "docker run -it -w /var/www -v ~/code/birta:/var/www -v '$HOME/.ssh:/root/.ssh' businessinsider/birta:build /bin/bash"
+tab ~/code/birta "docker exec -it birta_build_1 /bin/bash"
