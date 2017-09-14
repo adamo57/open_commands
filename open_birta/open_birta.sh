@@ -26,4 +26,5 @@ tab ~/code/birta
 clear
 tab ~/code/birta "docker-compose up"
 clear
+sleep 2
 tab ~/code/birta "docker exec -it birta_build_1 /bin/bash"
